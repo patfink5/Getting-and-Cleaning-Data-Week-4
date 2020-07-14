@@ -1,4 +1,3 @@
-#Testing Commit of Code
-#this is my Script
-
-#i am now a king of men
+#READ ME
+#Author: Patrick Fink
+#Coursera Projectgit 
