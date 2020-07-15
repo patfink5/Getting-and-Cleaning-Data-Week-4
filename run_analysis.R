@@ -1,5 +1,5 @@
 #READ ME
 #Author: Patrick Fink
-#Coursera Projectgit 
+#Coursera Project 
 
 #Testing Again, to see if it works - done.
